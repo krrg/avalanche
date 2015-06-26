@@ -1,1 +1,1 @@
-module.exports = require('lib/avalanche');
+module.exports = require('./lib/avalanche');
