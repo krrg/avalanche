@@ -1,0 +1,24 @@
+{
+  "name": "avalanche",
+  "version": "0.0.1",
+  "description": "An ES6 library for handling promise trees",
+  "main": "index.js",
+  "dependencies": {
+    "when": "^3.7.3",
+    "lodash": "^3.9.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krrg/avalanche.git"
+  },
+  "author": "Ken Reese",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krrg/avalanche/issues"
+  },
+  "homepage": "https://github.com/krrg/avalanche#readme"
+}
